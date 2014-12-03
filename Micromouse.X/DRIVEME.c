@@ -15,6 +15,8 @@
 #pragma config JTAGEN = OFF         // Disable JTAG
 #pragma config FSOSCEN = OFF        // Disable Secondary Oscillator
 
+// To learn git hub
+
 //PIN 2  = AN0, Left eye
 //PIN 3  = AN1, Middle eye
 //PIN 6  = AN2, Right eye
